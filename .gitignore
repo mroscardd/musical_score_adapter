@@ -1,2 +1,3 @@
 .venv
 *.musicxml
+output_xml/
